@@ -1,0 +1,17 @@
+#run
+#$ conda env create --file environment.yml
+name: OCR_Translator_env
+channels:
+  - menpo
+  - defaults
+  - conda-forge
+dependencies:
+  - python=2.7
+  - opencv
+  - scipy
+  - numpy
+  - pillow
+  - pip:
+    - googletrans
+    - pdf2image
+    - pytesseract
