@@ -25,7 +25,7 @@ Setup (Python2.7):
     sudo apt-get install git
     
     # clone repo
-    https://github.com/Nikolai10/OCR_Translator.git
+    git clone https://github.com/Nikolai10/OCR_Translator.git
     
     # navigate to ./OCR_Translator; install packages
     python2.7 -m pip install -r requirements.txt
