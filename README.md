@@ -3,7 +3,7 @@ Keywords: `OCR`, `Tesseract-OCR`, `Google Translate`, `Shell Script`, `Linux`
 
 ## 1. Introduction: OCR Translator
 
-Immigrants often struggle understanding letters in a foreign language received by mail. 
+Immigrants often struggle to understand letters in a foreign language received by mail. 
 OCR Translator aims to overcome language barriers, by using Tesseract-OCR and Google Translate. 
 
 ## 2. Workflow
