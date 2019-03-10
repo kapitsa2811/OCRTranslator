@@ -61,4 +61,6 @@ Setup:
 - [Tesseract-OCR](https://github.com/tesseract-ocr/tesseract)
 - [Google Translate](https://pypi.org/project/googletrans/)
 
-    
+## License
+
+![OCR_Translator_license](LICENSE)
