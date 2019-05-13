@@ -9,7 +9,7 @@ OCR Translator aims to overcome language barriers, by using Tesseract-OCR and Go
 ## 2. Workflow
 
 <p align="center">
-  <img width="70%" height="70%" src=docs/OCR_Translator.png>
+  <img width="70%" height="90%" src=docs/OCR_Translator.png>
 </p>
 
 **notice**: the preferred way is using a flatbed scanner, camera-based functionality will be added in future releases.
