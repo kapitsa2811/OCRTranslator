@@ -8,19 +8,22 @@ OCR Translator aims to overcome language barriers, by using Tesseract-OCR and Go
 
 ## 2. Workflow
 
-![OCR_Translator_workflow](docs/OCR_Translator.png)
+<p align="center">
+  <img width="70%" height="70%" src=docs/OCR_Translator.png>
+</p>
 
 **notice**: the preferred way is using a flatbed scanner, camera-based functionality will be added in future releases.
 
 ## 3. Config 
-Setup (Python2.7):
-
+1. Install dependencies (using conda virtualenv)
+```  
     # navigate to ./anaconda 
     conda env create --file environment.yml
     
     # activate OCR_Translator_env
     source activate OCR_Translator_env
-    
+```  
+
 **Notes:**
 
 - currently supported data types: PDF, png
